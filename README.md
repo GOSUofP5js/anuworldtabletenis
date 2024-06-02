@@ -1,9 +1,14 @@
+![logo](https://github.com/GOSUofP5js/anuworldtabletenis/assets/164286458/bf92a947-446e-4c26-973f-d2a44bd42d9f)
+
+
 ANU WORLD TABLE TENIS
 ============
 
 
 
-<EMBED> 로고
+
+
+
 ## 소개
 ANUWORLDTABLETENIS 프로젝트는 안동대학교 컴퓨터 그래픽스 수업에서 진행하는 팀 프로젝트 입니다.
 해당 프로젝트는 C++과 SDL 라이브러리를 사용하여 만든 2D 탁구 게임 엔진입니다.
@@ -41,7 +46,7 @@ ANUWORLDTABLETENIS 프로젝트는 안동대학교 컴퓨터 그래픽스 수업
 ## 상세내용 및 코드
 ### GameMenu.cpp
 
-<EMBED>
+![gamemenu](https://github.com/GOSUofP5js/anuworldtabletenis/assets/164286458/4af78b93-ef6b-410b-a228-10856adaa22d)
 
 
 **해당 cpp는 게임을 처음 시작했을때 나타나는 인트로 화면입니다.**
@@ -388,7 +393,7 @@ ANUWORLDTABLETENIS 프로젝트는 안동대학교 컴퓨터 그래픽스 수업
 ---- 
 ### Character Select.cpp
 
-<EMBED>
+![characterselect](https://github.com/GOSUofP5js/anuworldtabletenis/assets/164286458/07150013-fa89-41bb-9380-988b63fdbc19)
 
 
 **해당 cpp는 캐릭터를 선택하는 화면입니다..**
@@ -806,7 +811,7 @@ ANUWORLDTABLETENIS 프로젝트는 안동대학교 컴퓨터 그래픽스 수업
 ----
 ### Game Engine.cpp
 
-<EMBED>
+![game](https://github.com/GOSUofP5js/anuworldtabletenis/assets/164286458/39aa0313-a8ff-4865-b1b1-20344d74f4d7)
 
 
 **해당 cpp는 메인 탁구 게임 입니다.**
