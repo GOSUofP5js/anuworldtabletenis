@@ -7,7 +7,7 @@ ANU WORLD TABLE TENIS
 
 
 
-
+https://github.com/GOSUofP5js/anuworldtabletenis/assets/164286458/29b61b32-b28a-445d-a7c2-af8932b4e759
 
 ## 소개
 ANUWORLDTABLETENIS 프로젝트는 안동대학교 컴퓨터 그래픽스 수업에서 진행하는 팀 프로젝트 입니다.
